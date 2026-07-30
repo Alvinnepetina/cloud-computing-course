@@ -13,9 +13,9 @@ This repository serves as my organized workspace for all course requirements, in
 
 ## 👤 Student Information
 
-- **Name:** Petina Alvinne Lee
-- **Course/Section:** Your Course & Section
-- **Instructor:** Instructor Name
+- **Name:** Petina Alvinne Lee J.
+- **Course/Section:** BSIT 4-H
+- **Instructor:** JENKIELYN TORRES
 - **School Year:** 2026–2027
 
 ## 📂 Repository Structure
