@@ -60,9 +60,11 @@ Organizations with existing Microsoft infrastructure can use Azure to extend the
 
 ## Screenshot
 
-Insert a screenshot of the official Azure Portal or Azure homepage here.
+## Screenshot
 
-![Azure Portal](images/azure-portal.png)
+The screenshot below shows the Microsoft Azure Portal and some of the Azure services available through the management interface.
+
+![Microsoft Azure Portal](images/azure-portal.png)
 
 ## Sources
 
