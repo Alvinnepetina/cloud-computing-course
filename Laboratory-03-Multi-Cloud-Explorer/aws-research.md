@@ -18,21 +18,21 @@ AWS also provides other infrastructure options such as Local Zones and Wavelengt
 
 The AWS Management Console is a web-based interface used to access and manage AWS services. It provides centralized access to AWS service consoles and allows users to search for services, manage resources, view billing information, monitor account activity, and configure cloud resources.
 
-## Four Core Services
+# Four Core Services
 
-### 1. Amazon EC2
+ 1. Amazon EC2
 
 Amazon Elastic Compute Cloud (EC2) provides virtual servers in the AWS cloud. Organizations can use EC2 to run websites, applications, development environments, databases, and other workloads.
 
-### 2. Amazon S3
+2. Amazon S3
 
 Amazon Simple Storage Service (S3) is an object storage service. It can be used to store files, backups, images, videos, application data, and other objects.
 
-### 3. Amazon RDS
+ 3. Amazon RDS
 
 Amazon Relational Database Service (RDS) is a managed relational database service. It helps organizations run relational databases while AWS handles many administrative tasks such as infrastructure management, backups, and maintenance.
 
-### 4. AWS IAM
+ 4. AWS IAM
 
 AWS Identity and Access Management (IAM) controls authentication and authorization for AWS resources. Organizations can use IAM to create users, groups, roles, and permissions so that people and applications receive only the access they require.
 
@@ -58,6 +58,9 @@ AWS is also suitable for organizations that need to migrate existing workloads t
 
 # Screenshot
 
+The screenshot below shows the AWS cloud platform and management environment.
+
+![AWS Management Console](images/aws-console.png)
 
 ## Sources
 
