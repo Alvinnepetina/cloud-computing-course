@@ -27,3 +27,4 @@ This laboratory activity explores and compares three major cloud computing platf
 - [ ] Checkpoint 6 – Multi-Cloud Decision Matrix
 - [ ] Checkpoint 7 – Continue Your Linux Investigation
 - [ ] Checkpoint 8 – Mission Reflection
+
